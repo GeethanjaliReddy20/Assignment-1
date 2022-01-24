@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\even\even\bin\Debug\netcoreapp3.1\even.exe
+C:\Users\Dell\source\repos\even\even\bin\Debug\netcoreapp3.1\even.deps.json
+C:\Users\Dell\source\repos\even\even\bin\Debug\netcoreapp3.1\even.runtimeconfig.json
+C:\Users\Dell\source\repos\even\even\bin\Debug\netcoreapp3.1\even.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\even\even\bin\Debug\netcoreapp3.1\even.dll
+C:\Users\Dell\source\repos\even\even\bin\Debug\netcoreapp3.1\even.pdb
+C:\Users\Dell\source\repos\even\even\obj\Debug\netcoreapp3.1\even.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\even\even\obj\Debug\netcoreapp3.1\even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\even\even\obj\Debug\netcoreapp3.1\even.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\even\even\obj\Debug\netcoreapp3.1\even.AssemblyInfo.cs
+C:\Users\Dell\source\repos\even\even\obj\Debug\netcoreapp3.1\even.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\even\even\obj\Debug\netcoreapp3.1\even.dll
+C:\Users\Dell\source\repos\even\even\obj\Debug\netcoreapp3.1\even.pdb
+C:\Users\Dell\source\repos\even\even\obj\Debug\netcoreapp3.1\even.genruntimeconfig.cache
