@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ojG8LN5gQt5V2Nz41Ir7QBM0/X4KL52kjlz/hO98jyEpNPZIPNq0tbec3ID5KHAM46/Vibsl7UIUlK/pJk7hbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\student\\student\\student.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\mstest.testadapter\\2.2.7\\mstest.testadapter.2.2.7.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\mstest.testframework\\2.2.7\\mstest.testframework.2.2.7.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\selenium.webdriver\\3.14.0\\selenium.webdriver.3.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
