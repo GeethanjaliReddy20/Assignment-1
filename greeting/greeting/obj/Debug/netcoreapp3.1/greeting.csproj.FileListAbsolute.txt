@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\greeting\greeting\bin\Debug\netcoreapp3.1\greeting.exe
+C:\Users\Dell\source\repos\greeting\greeting\bin\Debug\netcoreapp3.1\greeting.deps.json
+C:\Users\Dell\source\repos\greeting\greeting\bin\Debug\netcoreapp3.1\greeting.runtimeconfig.json
+C:\Users\Dell\source\repos\greeting\greeting\bin\Debug\netcoreapp3.1\greeting.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\greeting\greeting\bin\Debug\netcoreapp3.1\greeting.dll
+C:\Users\Dell\source\repos\greeting\greeting\bin\Debug\netcoreapp3.1\greeting.pdb
+C:\Users\Dell\source\repos\greeting\greeting\obj\Debug\netcoreapp3.1\greeting.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\greeting\greeting\obj\Debug\netcoreapp3.1\greeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\greeting\greeting\obj\Debug\netcoreapp3.1\greeting.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\greeting\greeting\obj\Debug\netcoreapp3.1\greeting.AssemblyInfo.cs
+C:\Users\Dell\source\repos\greeting\greeting\obj\Debug\netcoreapp3.1\greeting.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\greeting\greeting\obj\Debug\netcoreapp3.1\greeting.dll
+C:\Users\Dell\source\repos\greeting\greeting\obj\Debug\netcoreapp3.1\greeting.pdb
+C:\Users\Dell\source\repos\greeting\greeting\obj\Debug\netcoreapp3.1\greeting.genruntimeconfig.cache
