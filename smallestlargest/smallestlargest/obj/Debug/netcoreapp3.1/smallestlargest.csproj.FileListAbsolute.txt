@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\smallestlargest\smallestlargest\bin\Debug\netcoreapp3.1\smallestlargest.exe
+C:\Users\Dell\source\repos\smallestlargest\smallestlargest\bin\Debug\netcoreapp3.1\smallestlargest.deps.json
+C:\Users\Dell\source\repos\smallestlargest\smallestlargest\bin\Debug\netcoreapp3.1\smallestlargest.runtimeconfig.json
+C:\Users\Dell\source\repos\smallestlargest\smallestlargest\bin\Debug\netcoreapp3.1\smallestlargest.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\smallestlargest\smallestlargest\bin\Debug\netcoreapp3.1\smallestlargest.dll
+C:\Users\Dell\source\repos\smallestlargest\smallestlargest\bin\Debug\netcoreapp3.1\smallestlargest.pdb
+C:\Users\Dell\source\repos\smallestlargest\smallestlargest\obj\Debug\netcoreapp3.1\smallestlargest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\smallestlargest\smallestlargest\obj\Debug\netcoreapp3.1\smallestlargest.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\smallestlargest\smallestlargest\obj\Debug\netcoreapp3.1\smallestlargest.AssemblyInfo.cs
+C:\Users\Dell\source\repos\smallestlargest\smallestlargest\obj\Debug\netcoreapp3.1\smallestlargest.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\smallestlargest\smallestlargest\obj\Debug\netcoreapp3.1\smallestlargest.dll
+C:\Users\Dell\source\repos\smallestlargest\smallestlargest\obj\Debug\netcoreapp3.1\smallestlargest.pdb
+C:\Users\Dell\source\repos\smallestlargest\smallestlargest\obj\Debug\netcoreapp3.1\smallestlargest.genruntimeconfig.cache
