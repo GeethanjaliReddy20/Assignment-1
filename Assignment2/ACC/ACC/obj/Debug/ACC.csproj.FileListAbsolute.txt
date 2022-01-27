@@ -1,8 +1,0 @@
-C:\Users\GB65860\source\repos\ACC\ACC\bin\Debug\ACC.exe.config
-C:\Users\GB65860\source\repos\ACC\ACC\bin\Debug\ACC.exe
-C:\Users\GB65860\source\repos\ACC\ACC\bin\Debug\ACC.pdb
-C:\Users\GB65860\source\repos\ACC\ACC\obj\Debug\ACC.csproj.AssemblyReference.cache
-C:\Users\GB65860\source\repos\ACC\ACC\obj\Debug\ACC.csproj.SuggestedBindingRedirects.cache
-C:\Users\GB65860\source\repos\ACC\ACC\obj\Debug\ACC.csproj.CoreCompileInputs.cache
-C:\Users\GB65860\source\repos\ACC\ACC\obj\Debug\ACC.exe
-C:\Users\GB65860\source\repos\ACC\ACC\obj\Debug\ACC.pdb
