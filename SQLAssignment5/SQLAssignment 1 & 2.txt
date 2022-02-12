@@ -44,8 +44,8 @@ values
 
 
 /*1. List all employees whose name begins with 'A'.*/
-  select * from Employe 
-  where Ename like 'A%'; 
+select * from Employe 
+where Ename like 'A%'; 
 Output:-
 7499	ALLEN	SALESMAN	7698	1981-02-20	1600	300	30
 7876	ADAMS	CLERK	7788	1987-05-23	1100	NULL	20
@@ -104,7 +104,7 @@ FORD	ANALYST	7902	7566	1981-12-03	3000	NULL	20
 select count(JOB) 'No. of WHo are working as clerk' from Employe 
 where JOB = 'CLERK';
 Output:-
-No. of WHo are working as clerk
+No. of employee Who are working as clerk
 4
 
 
