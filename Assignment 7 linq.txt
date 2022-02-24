@@ -179,24 +179,7 @@ namespace assignment6
 
             Console.WriteLine("");
             Console.WriteLine("");
-            Console.WriteLine("14. Display total number of employee based on city and title : ");
-            //var t1 = emplist.Where(d => d.City == "Chennai" && d.Title == "Manager    " && d.Title == "AsstManager" && d.Title == "Consultant ").Count<Employee>();
-            //Console.WriteLine("Chennai: " + t1);
-            //var t2 = emplist.Where(d => d.City == "Mumbai").Count<Employee>();
-            //Console.WriteLine("Mumbai: " + t2);
-            //var t3 = emplist.Where(d => d.City == "Pune").Count<Employee>();
-            //Console.WriteLine("Pune: " + t3);
-
-            //var c1 = emplist.Where(d => d.Title == "Manager    ").Count<Employee>();
-            //Console.WriteLine("Manager : " + c1);
-            //var c2 = emplist.Where(d => d.Title == "AsstManager").Count<Employee>();
-            //Console.WriteLine("AsstManager: " + c2);
-            //var c3 = emplist.Where(d => d.Title == "Consultant " ).Count<Employee>();
-            //Console.WriteLine("Consultant: " + c3);
-            //var c4 = emplist.Where(d => d.Title == "SE         ").Count<Employee>();
-            //Console.WriteLine("SE : " + c4);
-            //var c5 = emplist.Where(d => d.Title == "Consultant ").Count<Employee>();
-            //Console.WriteLine("Associate  " + c5);
+            Console.WriteLine("14. Display total number of employee based on city and title : ");        
             var myquery14 = from t in emplist
                             group t by t.Title into g
                             select new { Title = g.Key, ProductCount = g.Count() };
@@ -216,11 +199,6 @@ namespace assignment6
             {
                 Console.WriteLine("The youngest Employee Of All the Employees is : {0} {1}", item.FirstNam, item.LastName);
             }
-
-
-
-
-
             Console.ReadKey();
 
         }
@@ -287,8 +265,7 @@ Shah
 1009   Suresh    Mistry      Associate     1992-08-12   2014-12-03   Chennai
 
 
-8.Display total number of employees :
-10
+8.Display total number of employees : 10
 
 
 9. Display total number of employees belonging to "Chennai" : 3
